@@ -51,7 +51,7 @@ int main() {
 # 프로그램 소스 코드
 gcc src/mini.c -o mini
 ./mini
-
+```
 
 ### 실행 화면 캡처  
 (예: `docs/images/linux-run.png`)
